@@ -1,0 +1,2 @@
+#define HDF5PP_API __declspec(dllexport)
+#define HDF5PP_API __declspec(dllimport)
